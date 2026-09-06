@@ -1,0 +1,22 @@
+<svg viewBox="0 0 600 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Image à remplacer - CHAMANISME">
+  <rect width="600" height="340" fill="#26222b"/>
+  <circle cx="300" cy="170" r="120" fill="none" stroke="#c19a5b" stroke-width="1" opacity="0.35"/>
+  <circle cx="300" cy="170" r="80" fill="none" stroke="#c19a5b" stroke-width="1" opacity="0.5"/>
+<line x1="384.0" y1="170.0" x2="450.0" y2="170.0" stroke="currentColor" stroke-width="1" opacity="0.25"/>
+<line x1="377.6" y1="202.1" x2="438.6" y2="227.4" stroke="currentColor" stroke-width="1" opacity="0.25"/>
+<line x1="359.4" y1="229.4" x2="406.1" y2="276.1" stroke="currentColor" stroke-width="1" opacity="0.25"/>
+<line x1="332.1" y1="247.6" x2="357.4" y2="308.6" stroke="currentColor" stroke-width="1" opacity="0.25"/>
+<line x1="300.0" y1="254.0" x2="300.0" y2="320.0" stroke="currentColor" stroke-width="1" opacity="0.25"/>
+<line x1="267.9" y1="247.6" x2="242.6" y2="308.6" stroke="currentColor" stroke-width="1" opacity="0.25"/>
+<line x1="240.6" y1="229.4" x2="193.9" y2="276.1" stroke="currentColor" stroke-width="1" opacity="0.25"/>
+<line x1="222.4" y1="202.1" x2="161.4" y2="227.4" stroke="currentColor" stroke-width="1" opacity="0.25"/>
+<line x1="216.0" y1="170.0" x2="150.0" y2="170.0" stroke="currentColor" stroke-width="1" opacity="0.25"/>
+<line x1="222.4" y1="137.9" x2="161.4" y2="112.6" stroke="currentColor" stroke-width="1" opacity="0.25"/>
+<line x1="240.6" y1="110.6" x2="193.9" y2="63.9" stroke="currentColor" stroke-width="1" opacity="0.25"/>
+<line x1="267.9" y1="92.4" x2="242.6" y2="31.4" stroke="currentColor" stroke-width="1" opacity="0.25"/>
+<line x1="300.0" y1="86.0" x2="300.0" y2="20.0" stroke="currentColor" stroke-width="1" opacity="0.25"/>
+<line x1="332.1" y1="92.4" x2="357.4" y2="31.4" stroke="currentColor" stroke-width="1" opacity="0.25"/>
+<line x1="359.4" y1="110.6" x2="406.1" y2="63.9" stroke="currentColor" stroke-width="1" opacity="0.25"/>
+<line x1="377.6" y1="137.9" x2="438.6" y2="112.6" stroke="currentColor" stroke-width="1" opacity="0.25"/>
+  <text x="300" y="300" text-anchor="middle" font-family="Work Sans, sans-serif" font-size="12" fill="#8b8173" letter-spacing="1">IMAGE A REMPLACER</text>
+</svg>

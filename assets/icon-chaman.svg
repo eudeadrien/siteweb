@@ -1,0 +1,5 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="presentation" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6">
+  <path d="M6 48 22 20l8 12 6-8 22 24Z"/>
+  <path d="M32 14c-2 3-2 6 0 8"/>
+  <line x1="6" y1="48" x2="58" y2="48"/>
+</svg>
